@@ -3,3 +3,4 @@ Thesis project for the end of Master's degree in Data Science attended during 20
 
 ## Project goal
 Making a news classifier and analyzing what twitter accunts from the main media is talking about.
+To make this possibe, a data set of
