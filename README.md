@@ -14,4 +14,4 @@ The third block is about the interface which was created in DASH, enabling a fri
 
 ## Contact information:
 - Name: Francisco Álvarez González
-- E-mail: paquinho89@hotmail.com
+- E-mail: francisco.alvarez.89@hotmail.es
